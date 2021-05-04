@@ -6,7 +6,7 @@ Contributeurs : Rwanoux, Arthenius, Aldarion
 URL du Manifest à copier-coller dans l'installer de module de Foundry VTT :  
 https://github.com/aldarion-jdr/starfinder-fr/raw/main/module.json
 
-## Page Wiki
+## Page du Module sur le Wiki français de Foundry VTT
 Pour plus de détails sur l'installation, merci de vous rendre sur la page dédié sur le Wiki Français à l'adresse suivante :
 https://foundryvtt.wiki/e/fr/systemes/starfinder  
   
