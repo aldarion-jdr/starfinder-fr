@@ -1,0 +1,137 @@
+{
+    "name": "starfinder-fr",
+    "title": "Starfinder - Compendia Français",
+    "description": "Compendia français pour le système Starfinder",   
+    "author": "Temvaryen",
+	"system": "sfrpg",
+    "version": "1.0.2",
+    "minimumCoreVersion": "0.6.0",
+    "compatibleCoreVersion":"0.7.9",
+    "dependencies": [
+		{
+			"name": "sfrpg",
+			"type": "system"
+		}
+	],
+	"keywords": [
+		"starfinder",
+		"system",
+		"foundryvtt",
+		"compendium",
+		"français",
+		"fr"
+	],
+    "esmodules": [],
+    "scripts": [ ],
+    "styles": [],
+    "languages": [],
+    "packs": [
+        {
+          "label": "[FR] Armes",
+          "entity": "Item",
+          "name": "[FR] Armes",
+          "path": "./packs/starfinder-armes.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"     
+        },
+        {
+          "label": "[FR] Armures",
+          "entity": "Item",
+          "name": "[FR] Armures",
+          "path": "./packs/starfinder-armures.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },
+        {
+          "label": "[FR] Classes",
+          "entity": "Item",
+          "name": "[FR] Classes",
+          "path": "./packs/starfinder-classes.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },	
+        {
+          "label": "[FR] Classes - Bonus",
+          "entity": "Item",
+          "name": "[FR] Classes - Bonus",
+          "path": "./packs/starfinder-classes-bonus.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },	
+        {
+          "label": "[FR] Dons",
+          "entity": "Item",
+          "name": "[FR] Dons",
+          "path": "./packs/starfinder-dons.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },
+        {
+          "label": "[FR] Equipement",
+          "entity": "Item",
+          "name": "[FR] Equipement",
+          "path": "./packs/starfinder-equipement.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },
+        {
+          "label": "[FR] Sorts",
+          "entity": "Item",
+          "name": "[FR] Sorts",
+          "path": "./packs/starfinder-sorts.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },
+        {
+          "label": "[FR] Themes",
+          "entity": "Item",
+          "name": "[FR] Themes",
+          "path": "./packs/starfinder-themes.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },
+        {
+          "label": "[FR] Races",
+          "entity": "Item",
+          "name": "[FR] Races",
+          "path": "./packs/starfinder-races.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },
+        {
+          "label": "[FR] Races - Bonus",
+          "entity": "Item",
+          "name": "races Bonus(fr)",
+          "path": "./packs/starfinder-races-bonus.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },
+        {
+          "label": "[FR] Vaisseaux - Modules",
+          "entity": "Item",
+          "name": "[FR] Vaisseaux - Modules",
+          "path": "./packs/starfinder-vaisseaux-composant.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },
+        {
+          "label": "[FR] Combats Spatiaux",
+          "entity": "JournalEntry",
+          "name": "[FR] Combats Spatiaux",
+          "path": "./packs/starfinder-combats-spatiaux.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        },
+        {
+          "label": "[FR] Conditions",
+          "entity": "Item",
+          "name": "[FR] Conditions",
+          "path": "./packs/conditions-fr.db",
+          "system": "sfrpg",
+          "package": "starfinder-fr"
+        }	
+    ],
+    "url": "https://github.com/aldarion-jdr/starfinder-fr",
+    "manifest": "https://github.com/aldarion-jdr/starfinder-fr/raw/main/module.json",
+    "download": "https://github.com/aldarion-jdr/starfinder-fr/raw/main/starfinder-fr.zip"
+}
