@@ -26,7 +26,12 @@ https://foundryvtt.wiki/e/fr/systemes/starfinder
 * [FR] Sorts *items*
 * [FR] Themes *items*
 * [FR] Vaisseaux - Modules *items*
+  
+## CHANGELOG 1.0.3
 
+* Création de la branche 1.0.3
+* Modifications de noms de packages dans le modules.json
+  
 ## CHANGELOG 1.0.2
 
 * Publication starfinder-fr

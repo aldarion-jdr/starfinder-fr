@@ -4,7 +4,7 @@
     "description": "Compendia français pour le système Starfinder",   
     "author": "Temvaryen",
 	"system": "sfrpg",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion":"0.7.9",
     "dependencies": [
@@ -29,7 +29,7 @@
         {
           "label": "[FR] Armes",
           "entity": "Item",
-          "name": "[FR] Armes",
+          "name": "fr-armes",
           "path": "./packs/starfinder-armes.db",
           "system": "sfrpg",
           "package": "starfinder-fr"     
@@ -37,7 +37,7 @@
         {
           "label": "[FR] Armures",
           "entity": "Item",
-          "name": "[FR] Armures",
+          "name": "fr-armures",
           "path": "./packs/starfinder-armures.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -45,7 +45,7 @@
         {
           "label": "[FR] Classes",
           "entity": "Item",
-          "name": "[FR] Classes",
+          "name": "fr-classes",
           "path": "./packs/starfinder-classes.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -53,7 +53,7 @@
         {
           "label": "[FR] Classes - Bonus",
           "entity": "Item",
-          "name": "[FR] Classes - Bonus",
+          "name": "fr-classes - Bonus",
           "path": "./packs/starfinder-classes-bonus.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -61,7 +61,7 @@
         {
           "label": "[FR] Dons",
           "entity": "Item",
-          "name": "[FR] Dons",
+          "name": "fr-dons",
           "path": "./packs/starfinder-dons.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -69,7 +69,7 @@
         {
           "label": "[FR] Equipement",
           "entity": "Item",
-          "name": "[FR] Equipement",
+          "name": "fr-equipement",
           "path": "./packs/starfinder-equipement.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -77,7 +77,7 @@
         {
           "label": "[FR] Sorts",
           "entity": "Item",
-          "name": "[FR] Sorts",
+          "name": "fr-sorts",
           "path": "./packs/starfinder-sorts.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -85,7 +85,7 @@
         {
           "label": "[FR] Themes",
           "entity": "Item",
-          "name": "[FR] Themes",
+          "name": "fr-themes",
           "path": "./packs/starfinder-themes.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -93,7 +93,7 @@
         {
           "label": "[FR] Races",
           "entity": "Item",
-          "name": "[FR] Races",
+          "name": "fr-races",
           "path": "./packs/starfinder-races.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -101,7 +101,7 @@
         {
           "label": "[FR] Races - Bonus",
           "entity": "Item",
-          "name": "races Bonus(fr)",
+          "name": "fr-races-bonus",
           "path": "./packs/starfinder-races-bonus.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -109,7 +109,7 @@
         {
           "label": "[FR] Vaisseaux - Modules",
           "entity": "Item",
-          "name": "[FR] Vaisseaux - Modules",
+          "name": "fr-vaisseaux-modules",
           "path": "./packs/starfinder-vaisseaux-composant.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -117,7 +117,7 @@
         {
           "label": "[FR] Combats Spatiaux",
           "entity": "JournalEntry",
-          "name": "[FR] Combats Spatiaux",
+          "name": "fr-combats-spatiaux",
           "path": "./packs/starfinder-combats-spatiaux.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
@@ -125,7 +125,7 @@
         {
           "label": "[FR] Conditions",
           "entity": "Item",
-          "name": "[FR] Conditions",
+          "name": "fr-conditions",
           "path": "./packs/conditions-fr.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
