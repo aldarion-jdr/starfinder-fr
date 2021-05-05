@@ -4,9 +4,9 @@
     "description": "Compendia français pour le système Starfinder",   
     "author": "Temvaryen",
 	"system": "sfrpg",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion":"0.7.9",
+    "compatibleCoreVersion":"0.8.9",
     "dependencies": [
 		{
 			"name": "sfrpg",
@@ -15,6 +15,7 @@
 	],
 	"keywords": [
 		"starfinder",
+		"starfinder-fr",
 		"system",
 		"foundryvtt",
 		"compendium",
