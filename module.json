@@ -4,9 +4,9 @@
     "description": "Compendia français pour le système Starfinder",   
     "author": "Temvaryen",
 	"system": "sfrpg",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion":"0.7.9",
+    "compatibleCoreVersion":"0.8.9",
     "dependencies": [
 		{
 			"name": "sfrpg",
@@ -15,6 +15,7 @@
 	],
 	"keywords": [
 		"starfinder",
+		"starfinder-fr",
 		"system",
 		"foundryvtt",
 		"compendium",
@@ -30,7 +31,7 @@
           "label": "[FR] Armes",
           "entity": "Item",
           "name": "fr-armes",
-          "path": "./Packs/starfinder-armes.db",
+          "path": "./packs/starfinder-armes.db",
           "system": "sfrpg",
           "package": "starfinder-fr"     
         },
@@ -38,7 +39,7 @@
           "label": "[FR] Armures",
           "entity": "Item",
           "name": "fr-armures",
-          "path": "./Packs/starfinder-armures.db",
+          "path": "./packs/starfinder-armures.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },
@@ -46,7 +47,7 @@
           "label": "[FR] Classes",
           "entity": "Item",
           "name": "fr-classes",
-          "path": "./Packs/starfinder-classes.db",
+          "path": "./packs/starfinder-classes.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },	
@@ -54,7 +55,7 @@
           "label": "[FR] Classes - Bonus",
           "entity": "Item",
           "name": "fr-classes - Bonus",
-          "path": "./Packs/starfinder-classes-bonus.db",
+          "path": "./packs/starfinder-classes-bonus.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },	
@@ -62,7 +63,7 @@
           "label": "[FR] Dons",
           "entity": "Item",
           "name": "fr-dons",
-          "path": "./Packs/starfinder-dons.db",
+          "path": "./packs/starfinder-dons.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },
@@ -70,7 +71,7 @@
           "label": "[FR] Equipement",
           "entity": "Item",
           "name": "fr-equipement",
-          "path": "./Packs/starfinder-equipement.db",
+          "path": "./packs/starfinder-equipement.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },
@@ -78,7 +79,7 @@
           "label": "[FR] Sorts",
           "entity": "Item",
           "name": "fr-sorts",
-          "path": "./Packs/starfinder-sorts.db",
+          "path": "./packs/starfinder-sorts.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },
@@ -86,7 +87,7 @@
           "label": "[FR] Themes",
           "entity": "Item",
           "name": "fr-themes",
-          "path": "./Packs/starfinder-themes.db",
+          "path": "./packs/starfinder-themes.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },
@@ -94,7 +95,7 @@
           "label": "[FR] Races",
           "entity": "Item",
           "name": "fr-races",
-          "path": "./Packs/starfinder-races.db",
+          "path": "./packs/starfinder-races.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },
@@ -102,7 +103,7 @@
           "label": "[FR] Races - Bonus",
           "entity": "Item",
           "name": "fr-races-bonus",
-          "path": "./Packs/starfinder-races-bonus.db",
+          "path": "./packs/starfinder-races-bonus.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },
@@ -110,7 +111,7 @@
           "label": "[FR] Vaisseaux - Modules",
           "entity": "Item",
           "name": "fr-vaisseaux-modules",
-          "path": "./Packs/starfinder-vaisseaux-composant.db",
+          "path": "./packs/starfinder-vaisseaux-composant.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },
@@ -118,7 +119,7 @@
           "label": "[FR] Combats Spatiaux",
           "entity": "JournalEntry",
           "name": "fr-combats-spatiaux",
-          "path": "./Packs/starfinder-combats-spatiaux.db",
+          "path": "./packs/starfinder-combats-spatiaux.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         },
@@ -126,7 +127,7 @@
           "label": "[FR] Conditions",
           "entity": "Item",
           "name": "fr-conditions",
-          "path": "./Packs/conditions-fr.db",
+          "path": "./packs/conditions-fr.db",
           "system": "sfrpg",
           "package": "starfinder-fr"
         }	
