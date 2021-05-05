@@ -1,3 +1,4 @@
+![starfinder-logo](https://www.black-book-editions.fr/contenu/partners/tonyb/image/starfinder_1000x200.png "starfinder-logo")
 # Starfinder-fr
 Module de compendium traduits en français pour le Système Starfinder de Foundry VTT.  
 Créateur : Temvaryen  
