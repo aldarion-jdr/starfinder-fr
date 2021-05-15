@@ -4,7 +4,7 @@
     "description": "Compendia français pour le système Starfinder",   
     "author": "Temvaryen",
 	"system": "sfrpg",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion":"0.8.9",
     "dependencies": [
@@ -134,5 +134,5 @@
     ],
     "url": "https://github.com/aldarion-jdr/starfinder-fr",
     "manifest": "https://github.com/aldarion-jdr/starfinder-fr/raw/main/module.json",
-    "download": "https://github.com/aldarion-jdr/starfinder-fr/raw/main/starfinder-fr.zip"
+    "download": "https://github.com/aldarion-jdr/starfinder-fr/archive/refs/heads/main.zip"
 }
