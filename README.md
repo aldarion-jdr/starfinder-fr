@@ -27,14 +27,21 @@ https://foundryvtt.wiki/e/fr/systemes/starfinder
 * [FR] Sorts *items*
 * [FR] Themes *items*
 * [FR] Vaisseaux - Modules *items*
-  
-## CHANGELOG 1.0.3
 
+## CHANGELOG 1.0.6
+* Mise à jour du pack ésuipement par Arthenius
+
+## CHANGELOG 1.0.5
+* Passage d'un seul fichier zip à une structure classique de module.
+
+## CHANGELOG 1.0.4
+*
+
+## CHANGELOG 1.0.3
 * Création de la branche 1.0.3
 * Modifications de noms de packages dans le modules.json
   
 ## CHANGELOG 1.0.2
-
 * Publication starfinder-fr
 * Création de la branche 1.0.2
 * Changements dans les noms des packages pour plus de lisibilité dans Foundry.
