@@ -35,7 +35,7 @@ https://foundryvtt.wiki/e/fr/systemes/starfinder
 * Passage d'un seul fichier zip à une structure classique de module.
 
 ## CHANGELOG 1.0.4
-*
+* Modification du chemin des pack dans l'archive
 
 ## CHANGELOG 1.0.3
 * Création de la branche 1.0.3
